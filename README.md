@@ -76,7 +76,7 @@ HTML + CSS + Vanilla JS
 
 ```bash
 # 1. 克隆
-git clone https://your-org/besql.git && cd besql
+git clone https://github.com/besql/besql.git && cd besql
 
 # 2. 安装依赖
 pip install -r requirements.txt
