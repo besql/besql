@@ -1,6 +1,6 @@
 # BESQL 在线工具箱
 
-> 44+ 款免费在线工具，覆盖开发、设计、办公全场景。SQL 格式化、JSON 美化、Base64 编解码、时间戳转换、正则测试、图片压缩/裁剪/格式转换、PDF 合并/拆分/加解密、密码生成、Hash 计算等一应俱全。无需注册，无广告，客户端处理保护隐私。访问 **besql.cn** 立即使用
+> 60 余款免费在线工具，以九大 SQL 工具为特色，覆盖开发、设计、办公全场景。SQL 格式化、SQL 在线运行、SQLite 查看器、SQL 转 ER 图、SQL 语句生成器、SQL 方言转换、CSV 转 SQL、JSON 转 SQL、SQL 注入检测、JSON 美化、Base64 编解码、时间戳转换、正则测试、中文编码识别转换、图片压缩/裁剪/格式转换、PDF 合并/拆分/加解密、二维码生成/识别、JWT/Basic 认证、密码生成、Hash 计算等一应俱全。无需注册，无广告，客户端处理保护隐私。访问 **besql.cn** 立即使用
 
 **https://www.besql.cn**
 
@@ -13,9 +13,18 @@
 
 | 分类 | 工具 | 地址 |
 |------|------|------|
-| **开发工具** | SQL 格式化 | https://www.besql.cn/sql |
-| | JSON 格式化 | https://www.besql.cn/json |
+| **SQL 工具** | SQL 格式化 | https://www.besql.cn/sql |
+| | SQL 在线运行 | https://www.besql.cn/sql-run |
+| | SQLite 在线查看器 | https://www.besql.cn/sqlite-viewer |
+| | SQL 转 ER 图 | https://www.besql.cn/sql-er |
+| | SQL 语句生成器 | https://www.besql.cn/sql-builder |
+| | SQL 方言转换 | https://www.besql.cn/sql-convert |
+| | CSV 转 SQL | https://www.besql.cn/csv2sql |
+| | JSON 转 SQL | https://www.besql.cn/json2sql |
+| | SQL 注入检测 | https://www.besql.cn/sql-injection |
+| **开发工具** | JSON 格式化 | https://www.besql.cn/json |
 | | URL 编码解码 | https://www.besql.cn/url |
+| | 中文编码识别转换 | https://www.besql.cn/chinese-encoding |
 | | Base64 编码解码 | https://www.besql.cn/base64 |
 | | 时间戳转换 | https://www.besql.cn/timestamp |
 | | 正则表达式测试 | https://www.besql.cn/regex |
@@ -24,17 +33,31 @@
 | | UUID 生成 | https://www.besql.cn/uuid |
 | | Hash 计算 | https://www.besql.cn/hash |
 | | 图片 Base64 转换 | https://www.besql.cn/image2base64 |
+| | URL 解析 | https://www.besql.cn/url-parser |
+| | Cookie 解析生成 | https://www.besql.cn/cookie-parser |
+| | JWT 解析生成 | https://www.besql.cn/jwt |
+| | Basic 认证 | https://www.besql.cn/basic-auth |
+| | UA 解析 | https://www.besql.cn/user-agent |
+| | 设备信息查询 | https://www.besql.cn/device-info |
+| | TOTP 动态口令 | https://www.besql.cn/otp |
 | **文本工具** | 加密解密 | https://www.besql.cn/encrypt |
 | | 去重排序 | https://www.besql.cn/dedupe |
 | | 字数统计 | https://www.besql.cn/wordcount |
 | | 摩斯密码 | https://www.besql.cn/morse |
 | | 简繁转换 | https://www.besql.cn/s2t |
+| | 大小写转换 | https://www.besql.cn/case-convert |
+| | HTML 实体转义 | https://www.besql.cn/html-entities |
+| | JSON 参数互转 | https://www.besql.cn/json-param |
+| | Slug 生成 | https://www.besql.cn/slugify |
 | **图片工具** | 图片压缩 | https://www.besql.cn/img/compress |
 | | 图片大小修改 | https://www.besql.cn/img/resize |
 | | 图片裁剪 | https://www.besql.cn/img/crop |
 | | 图片格式转换 | https://www.besql.cn/img/format |
 | | 图片加水印 | https://www.besql.cn/img/watermark |
 | | 图片旋转翻转 | https://www.besql.cn/img/rotate |
+| | 二维码生成 | https://www.besql.cn/qrcode |
+| | 二维码识别 | https://www.besql.cn/qr-decode |
+| | Favicon 生成 | https://www.besql.cn/favicon |
 | **PDF 工具** | PDF 合并 | https://www.besql.cn/pdf/merge |
 | | PDF 拆分 | https://www.besql.cn/pdf/split |
 | | PDF 旋转 | https://www.besql.cn/pdf/rotate |
@@ -49,7 +72,6 @@
 | | 密码强度检测 | https://www.besql.cn/strength |
 | | 随机数生成 | https://www.besql.cn/random |
 | | 日期计算 | https://www.besql.cn/date |
-| | 整数分区计算 | https://www.besql.cn/partition |
 | | BMI 计算 | https://www.besql.cn/bmi |
 | | 条形码生成 | https://www.besql.cn/barcode |
 | **趣味与测试** | 在线秒表 | https://www.besql.cn/stopwatch |
